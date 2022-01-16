@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: placement-app
+spec:
+  selector:
+    matchLabels:
+      app: placement-app
+  template:
+    metadata:
+      labels:
+        app: placement-app
+    spec:
+      containers:
+      - name: placement-app
+        image: subbu0319/placement-app:v1
+        resources:
+          limits:
+            memory: "128Mi"
+            cpu: "500m"
+        ports:
+        - containerPort: 9696

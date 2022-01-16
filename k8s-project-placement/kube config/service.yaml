@@ -1,0 +1,14 @@
+#service.yaml
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: placement-app
+spec:
+  type: LoadBalancer
+  selector:
+    app: placement-app
+  ports:
+    - protocol: "TCP"
+      port: 80
+      targetPort: 9696

@@ -1,0 +1,671 @@
+gender,ssc_p,ssc_b,hsc_p,hsc_b,hsc_s,degree_p,degree_t,etest_p,mba_p,specialisation,workex,status
+M,73.97697464,Central,77.39269144,Others,Science,73.62315139,Sci&Tech,84.49831032,67.20700615,Mkt&HR,Yes,Placed
+M,62,Others,62,Others,Commerce,60,Comm&Mgmt,63,52.38,Mkt&HR,Yes,Placed
+M,80.96524179,Others,67.10427464,Others,Science,72.48262089,Sci&Tech,91.34358804,71.39231325,Mkt&Fin,No,Placed
+M,52,Others,65,Others,Arts,57,Others,75,59.81,Mkt&Fin,Yes,Not Placed
+F,69,Central,62,Central,Science,66,Sci&Tech,75,67.99,Mkt&HR,No,Not Placed
+M,78.76236999,Others,78.663054,Others,Commerce,70.28106943,Comm&Mgmt,67.4417725,65.31804916,Mkt&Fin,Yes,Placed
+M,51.79449655,Others,40.98560482,Others,Science,62.12664797,Others,65.86246912,52.24975112,Mkt&HR,No,Not Placed
+M,59.80592361,Central,61.4514809,Others,Commerce,60,Comm&Mgmt,62.4514809,57.02595675,Mkt&HR,Yes,Placed
+M,77.3513176,Central,74.83467407,Others,Science,73.4877115,Sci&Tech,80.12399445,68.00165739,Mkt&HR,Yes,Placed
+M,76.5,Others,97.7,Others,Science,78.86,Sci&Tech,97.4,74.01,Mkt&Fin,No,Placed
+M,60.96135943,Others,49.38270211,Others,Science,54.50353752,Others,70.37680067,61.72611721,Mkt&HR,No,Not Placed
+F,73.80921052,Central,81.21381578,Central,Arts,58.65792764,Others,59.23355264,63.18019737,Mkt&HR,Yes,Placed
+M,80.91168805,Others,60.93630497,Others,Science,62.6818969,Sci&Tech,89.78996673,64.95734043,Mkt&Fin,Yes,Placed
+M,73.5920008,Central,78.3946672,Others,Science,73.986668,Sci&Tech,87.36800319,66.74760124,Mkt&HR,Yes,Placed
+M,70.97819508,Central,68.63551223,Central,Science,72,Sci&Tech,57.3819317,57.46757359,Mkt&HR,No,Placed
+M,60.08876372,Others,44.52811596,Others,Science,54.73006352,Others,72.99460263,58.51852957,Mkt&HR,No,Not Placed
+M,67,Others,61,Central,Science,72,Comm&Mgmt,72,61.01,Mkt&Fin,No,Placed
+F,52,Others,52,Others,Science,55,Sci&Tech,67,59.32,Mkt&HR,No,Not Placed
+F,48,Central,51,Central,Commerce,58,Comm&Mgmt,60,58.79,Mkt&HR,Yes,Not Placed
+M,60.38914083,Others,45.37503983,Others,Science,54.22145482,Others,72.53511363,58.84182165,Mkt&HR,No,Not Placed
+M,79.39641426,Others,61.3941188,Others,Science,67.07125575,Sci&Tech,92.93826067,66.43686942,Mkt&Fin,No,Placed
+M,82,Others,63.56545672,Others,Science,71.40667465,Sci&Tech,94.98606568,70.85456216,Mkt&Fin,No,Placed
+M,75.4640181,Others,60.603255,Others,Science,83.64893301,Sci&Tech,97.938047,65.24194611,Mkt&Fin,Yes,Placed
+M,65.62557799,Central,66.7251156,Others,Science,70.45731928,Sci&Tech,59.3436055,67.25291249,Mkt&Fin,Yes,Not Placed
+M,61.48101389,Others,48.90588291,Others,Science,52.57477304,Others,70.29209517,60.95407116,Mkt&HR,No,Not Placed
+M,76.3209971,Central,96.08163108,Others,Commerce,78.45442351,Comm&Mgmt,96.40369391,73.34342317,Mkt&Fin,Yes,Placed
+M,75.78286303,Central,75.59043101,Central,Science,67.11018472,Sci&Tech,72.47941254,65.16871727,Mkt&Fin,Yes,Placed
+F,68.65385881,Central,67.68244014,Central,Arts,63.76616958,Others,67.65304129,61.12880634,Mkt&Fin,Yes,Placed
+F,73.72047807,Central,81.08071711,Central,Arts,58.73184176,Others,59.29566535,63.15517482,Mkt&Fin,Yes,Placed
+M,77.98808561,Central,88.47628951,Others,Commerce,77.23035225,Comm&Mgmt,76.59106048,70.03670398,Mkt&Fin,Yes,Placed
+F,65.07774334,Central,68.80313524,Central,Arts,62.04251457,Others,68.39372952,59.98856452,Mkt&Fin,Yes,Placed
+M,55.71808376,Central,62.66199239,Others,Science,65,Comm&Mgmt,86.50701142,57.64483503,Mkt&HR,No,Not Placed
+M,63,Others,71.4,Others,Commerce,61.4,Comm&Mgmt,68,66.88,Mkt&Fin,No,Placed
+M,54.96682239,Others,64.2582944,Others,Science,56.6291472,Others,76.854264,58.6306881,Mkt&HR,No,Not Placed
+M,52.08193306,Central,63.53085539,Central,Commerce,56.03940545,Comm&Mgmt,75.1412639,60.58977676,Mkt&HR,No,Not Placed
+M,74.23056462,Central,77.23505443,Others,Science,73.78490068,Sci&Tech,84.36808844,67.56443094,Mkt&HR,Yes,Placed
+M,76.78446335,Central,65.37702058,Central,Science,64.95290523,Sci&Tech,75.23439073,70.80958206,Mkt&HR,Yes,Placed
+M,47.14027499,Central,59.16832999,Central,Commerce,63.80361502,Comm&Mgmt,77.91583501,61.53034265,Mkt&HR,No,Not Placed
+F,82.99750912,Others,76.2531136,Others,Science,69.75186816,Sci&Tech,62.44861467,63.28229161,Mkt&Fin,Yes,Placed
+M,58,Central,61,Central,Commerce,60,Comm&Mgmt,62,60.85,Mkt&HR,Yes,Placed
+M,82.01647067,Central,64.09058867,Others,Science,66.024706,Sci&Tech,66.95882333,62.14181177,Mkt&Fin,Yes,Placed
+M,58.88661183,Central,64.37732237,Others,Science,61.55669409,Comm&Mgmt,84.62267763,61.64060913,Mkt&HR,No,Not Placed
+M,76.59610444,Central,97.06207557,Others,Commerce,78.63985085,Comm&Mgmt,97.03581366,73.63076232,Mkt&Fin,Yes,Placed
+M,80.4,Central,73.4,Central,Science,77.72,Sci&Tech,81.2,76.26,Mkt&HR,Yes,Placed
+M,73,Central,64,Others,Commerce,77,Comm&Mgmt,65,60.98,Mkt&HR,Yes,Placed
+M,67.77152345,Central,61.05551241,Others,Science,58.43202207,Comm&Mgmt,92.33390354,66.2020143,Mkt&HR,No,Not Placed
+M,80.78992635,Others,63.56309882,Others,Science,65.35939901,Sci&Tech,88.79937187,66.88140238,Mkt&Fin,Yes,Placed
+M,59.72185376,Others,47.39686542,Others,Science,57.51928876,Others,72.57929871,59.9847015,Mkt&HR,No,Not Placed
+M,80.04644684,Others,60.57531453,Others,Science,63.16363818,Sci&Tech,90.27405641,64.67282559,Mkt&Fin,Yes,Placed
+M,61.08,Others,50,Others,Science,54,Sci&Tech,71,65.69,Mkt&Fin,No,Not Placed
+M,65.31110897,Central,66.97036966,Central,Commerce,70.04713394,Comm&Mgmt,60,62.94619491,Mkt&Fin,Yes,Placed
+M,84.04933203,Central,73.71808215,Central,Science,69.9890098,Sci&Tech,75.2095866,70.16858215,Mkt&HR,Yes,Placed
+M,63,Central,66.2,Central,Commerce,65.6,Comm&Mgmt,60,62.54,Mkt&Fin,Yes,Placed
+F,86.85920657,Central,64.06164576,Others,Science,72.33592379,Sci&Tech,70.12070635,63.94015669,Mkt&Fin,Yes,Placed
+M,77,Central,70,Central,Commerce,59,Comm&Mgmt,58,54.43,Mkt&Fin,Yes,Placed
+M,60.68260627,Others,45.72480792,Others,Science,53.5420793,Others,75.1124666,56.45539963,Mkt&HR,No,Not Placed
+F,66.39860707,Central,69.4085208,Central,Arts,63.96495563,Others,64.91133567,61.07485885,Mkt&Fin,Yes,Placed
+M,74.96789973,Central,77.75077694,Others,Commerce,64.8265949,Comm&Mgmt,94.35405248,61.98548528,Mkt&Fin,Yes,Placed
+M,59.34146791,Others,49.22259188,Others,Science,59.83841744,Others,74.67683489,59.03637271,Mkt&HR,No,Not Placed
+M,81.97932671,Others,63.98202322,Others,Science,72.96287796,Sci&Tech,95.98202322,71.73337232,Mkt&Fin,No,Placed
+M,82.8973859,Others,82.48337903,Others,Science,64.31623098,Sci&Tech,88.59806471,60.57406943,Mkt&Fin,Yes,Placed
+M,48.88313451,Central,51,Others,Commerce,57.94189905,Comm&Mgmt,59.72460147,59.2466735,Mkt&HR,No,Not Placed
+M,73.95130166,Others,73.88552016,Others,Science,66.37950864,Sci&Tech,70.8475693,67.07821742,Mkt&Fin,Yes,Placed
+M,75.78090341,Others,81.87273094,Others,Commerce,71.52649858,Comm&Mgmt,70.64558776,64.83214095,Mkt&Fin,Yes,Placed
+M,84.4945582,Central,60.6739224,Others,Science,72.17818914,Sci&Tech,61.1793642,61.43320851,Mkt&Fin,Yes,Placed
+M,79.91074358,Others,65.57943019,Others,Science,64.22390271,Sci&Tech,92.69742877,62.8807255,Mkt&Fin,No,Placed
+F,75.80896642,Central,63.96816107,Others,Science,71.93632214,Sci&Tech,57.90448321,66.38576965,Mkt&HR,No,Placed
+M,62,Central,60.33,Others,Science,64.21,Sci&Tech,63,60.02,Mkt&HR,No,Not Placed
+F,61.14349966,Central,68.42214818,Central,Science,64.51270986,Others,82.93061716,64.67604424,Mkt&HR,Yes,Placed
+M,65.12407486,Central,65.79840273,Others,Science,70.10970981,Sci&Tech,55.64286716,70.97059989,Mkt&Fin,Yes,Not Placed
+M,79.48890763,Central,82.75771229,Others,Science,76.18519572,Sci&Tech,88.50535082,68.07107458,Mkt&Fin,Yes,Placed
+M,65,Central,68,Central,Arts,64,Comm&Mgmt,75,57.8,Mkt&Fin,No,Placed
+M,68.04378877,Central,62.45852867,Others,Science,70.28349341,Sci&Tech,56.23696401,71.20702317,Mkt&Fin,Yes,Not Placed
+F,63.92932082,Central,65.38890232,Central,Arts,60.51186641,Others,72.11474185,59.19626602,Mkt&Fin,Yes,Placed
+M,49.2630588,Central,53.93059766,Central,Commerce,61.94332939,Comm&Mgmt,55.79743483,59.25029038,Mkt&HR,Yes,Not Placed
+M,70.17901572,Central,60.44153588,Others,Science,60.87344497,Comm&Mgmt,55.58950786,60.03978914,Mkt&Fin,Yes,Placed
+M,64.6,Central,83.83,Others,Commerce,71.72,Comm&Mgmt,86,59.75,Mkt&Fin,No,Placed
+F,63.4,Others,67.2,Others,Commerce,60,Comm&Mgmt,58.06,69.28,Mkt&HR,No,Not Placed
+M,77.87430811,Others,61.63320321,Others,Science,65.30535105,Sci&Tech,92.77184987,64.0420629,Mkt&Fin,Yes,Placed
+M,66.34955301,Central,64.39657269,Others,Science,70.1826512,Sci&Tech,55.89222471,71.06983275,Mkt&Fin,Yes,Not Placed
+F,84.99748689,Central,75.82138032,Central,Science,71.99497378,Others,75.17610657,69.42377533,Mkt&HR,Yes,Placed
+M,49.94315192,Others,37.11369615,Others,Science,52.73902499,Others,64.88630385,55.83144443,Mkt&HR,No,Not Placed
+M,77.86985154,Others,61.0753099,Others,Science,67.34379456,Sci&Tech,92.92023336,64.26031796,Mkt&Fin,Yes,Placed
+F,77,Central,86.65320082,Central,Arts,57.95960246,Others,64.18520902,67.05206373,Mkt&Fin,Yes,Placed
+F,59.55694725,Central,66.43038159,Central,Commerce,64,Comm&Mgmt,64.55694725,65.4572211,Mkt&HR,No,Not Placed
+F,69.8,Others,60.8,Others,Science,72.23,Sci&Tech,55.53,68.81,Mkt&HR,No,Placed
+M,60.52617416,Others,57.61861505,Others,Science,54.63737071,Others,78.50044433,56.35379815,Mkt&HR,No,Not Placed
+F,65.058479,Central,68.57016634,Central,Arts,62.10139155,Others,68.32967523,60.02543293,Mkt&Fin,Yes,Placed
+M,61.49371884,Others,47.94086264,Others,Science,52.15803519,Others,75.60560478,56.01862703,Mkt&HR,No,Not Placed
+F,85.61077495,Central,61.71016985,Others,Science,70.97468472,Sci&Tech,59.5928167,60.63850672,Mkt&Fin,Yes,Placed
+M,61.24061878,Others,49.3307551,Others,Commerce,54.08477102,Comm&Mgmt,67.87685714,63.55733959,Mkt&Fin,No,Not Placed
+F,78,Central,77,Others,Commerce,80,Comm&Mgmt,60,66.72,Mkt&Fin,No,Placed
+M,52.67249631,Others,64.05850516,Others,Science,56.66375184,Others,74.55884242,60.00905891,Mkt&HR,No,Not Placed
+M,66.45516416,Others,61.81182089,Others,Science,75.32167163,Sci&Tech,76.41576119,54.13938866,Mkt&Fin,No,Placed
+F,64.30594484,Central,69.10198161,Central,Science,63.56317058,Others,85.66515219,69.77781532,Mkt&HR,Yes,Placed
+M,59.06858524,Others,46.36365062,Others,Science,59.10196925,Others,73.76626095,59.18600482,Mkt&HR,No,Not Placed
+F,73.90687494,Central,58.63425643,Central,Science,62.3771361,Others,81.00569627,62.18546053,Mkt&HR,Yes,Placed
+M,54.88689406,Others,42.5320266,Others,Science,51.9153251,Others,66.72098074,58.49157073,Mkt&HR,No,Not Placed
+M,62.31994443,Central,67,Others,Commerce,63.11911089,Comm&Mgmt,78.59972215,54.21749154,Mkt&HR,No,Not Placed
+M,68.65460262,Central,67.63288734,Central,Science,69.29472839,Sci&Tech,58.14684507,57.19078379,Mkt&HR,No,Placed
+F,85.44215511,Central,75.25543895,Central,Science,72.88431022,Others,76.18671616,69.72089455,Mkt&HR,Yes,Placed
+F,79,Others,61,Others,Science,75.5,Sci&Tech,70,68.2,Mkt&Fin,Yes,Placed
+M,52.5392924,Others,64.23482524,Others,Science,56.7371959,Others,74.65491667,59.98381377,Mkt&HR,No,Not Placed
+F,86.5,Others,64.2,Others,Science,67.4,Sci&Tech,59,59.69,Mkt&Fin,No,Placed
+F,73.31275127,Central,81.01136936,Central,Science,56,Others,61.98863064,62.46411747,Mkt&HR,Yes,Placed
+M,80.7899198,Others,67.35627063,Others,Science,64.50344299,Sci&Tech,92.63188243,63.36735144,Mkt&Fin,Yes,Placed
+F,59,Central,62,Others,Commerce,77.5,Comm&Mgmt,74,67,Mkt&HR,No,Not Placed
+M,63.15124582,Central,62.18905727,Central,Commerce,68.18905727,Comm&Mgmt,63.81094273,62.73451116,Mkt&Fin,Yes,Placed
+F,65.49986383,Central,69.28555866,Central,Arts,62.54483796,Others,67.42888267,60.26776708,Mkt&Fin,Yes,Placed
+M,75.81242765,Central,93.7467439,Others,Science,77.64495934,Sci&Tech,94.91307793,72.33432863,Mkt&Fin,Yes,Placed
+M,65.77787089,Central,65.05052247,Others,Science,70.14862425,Sci&Tech,55.77590011,71.0235409,Mkt&Fin,Yes,Not Placed
+M,84,Others,79.76106767,Others,Science,67.77615657,Sci&Tech,84.13046874,66.22504522,Mkt&Fin,No,Placed
+F,65.71704115,Central,68.71704115,Central,Science,63.35048147,Others,86.53376131,69.15032011,Mkt&HR,Yes,Placed
+F,88.43055317,Others,67.03086729,Others,Science,70.96200199,Sci&Tech,70.43785511,63.16357525,Mkt&Fin,Yes,Placed
+M,59.01769468,Central,68.87069274,Others,Commerce,67.11588186,Comm&Mgmt,53.57838815,72.49607986,Mkt&Fin,Yes,Not Placed
+M,67,Others,63,Central,Commerce,72,Comm&Mgmt,56,60.41,Mkt&HR,No,Placed
+M,72.70795576,Others,63.37138663,Others,Science,76.7746355,Sci&Tech,78.11605832,54.37786868,Mkt&Fin,No,Placed
+M,74.03316368,Central,69.98812039,Central,Science,72.17844122,Comm&Mgmt,60.19749786,57.52496137,Mkt&Fin,Yes,Placed
+M,82.15810213,Others,76.84017961,Others,Science,64.19301702,Sci&Tech,90.31320305,61.3478531,Mkt&Fin,Yes,Placed
+M,63.065786,Others,67.85521803,Others,Science,64.065786,Sci&Tech,74.60528399,65.88042532,Mkt&Fin,No,Placed
+M,62.46298083,Central,62.55557699,Others,Commerce,60.37038466,Comm&Mgmt,64.05559628,52.48278174,Mkt&HR,Yes,Placed
+M,61.98274231,Others,50.66079837,Others,Science,51.87729508,Others,69.09365917,62.19910892,Mkt&HR,No,Not Placed
+M,77.39909218,Central,74.81219191,Central,Science,73.55403385,Sci&Tech,80.14085606,68.13107029,Mkt&HR,Yes,Placed
+M,67.8374568,Central,63.61855533,Others,Commerce,66.21245022,Comm&Mgmt,55.30487623,57.85023807,Mkt&Fin,Yes,Placed
+M,65.07552349,Central,61.35645596,Others,Science,64.89814838,Sci&Tech,62.33876245,60.05459964,Mkt&Fin,No,Placed
+M,76.86835002,Central,73.51456022,Central,Science,66.73624968,Sci&Tech,72.5728011,68.92670395,Mkt&Fin,No,Placed
+F,55.73315225,Central,76.80054326,Central,Commerce,62.13342388,Comm&Mgmt,51.73315225,56.32432867,Mkt&Fin,No,Not Placed
+M,65.54356482,Others,68.52613889,Others,Science,64.50871296,Sci&Tech,73.72821759,66.86951394,Mkt&HR,No,Placed
+M,79.44342895,Others,63.37335228,Others,Science,65.14595167,Sci&Tech,92.7370851,64.87968197,Mkt&Fin,Yes,Placed
+M,86.3129045,Central,67.93818396,Others,Science,70.343626,Sci&Tech,64.7122019,62.15526645,Mkt&Fin,Yes,Placed
+M,50.96178706,Others,44.21340296,Others,Science,53.44268059,Comm&Mgmt,65.96178706,57.65366823,Mkt&HR,No,Not Placed
+F,80.95762604,Central,60.67372899,Others,Science,74.82461902,Sci&Tech,66.73728993,65.94546734,Mkt&Fin,Yes,Placed
+M,61.66406259,Others,48.9776147,Others,Science,52.10859872,Others,73.18053713,58.30478894,Mkt&HR,No,Not Placed
+F,65.32241074,Central,67.13055137,Central,Science,68.32900535,Others,80.86690381,69.62407992,Mkt&HR,Yes,Placed
+M,58,Others,40,Others,Science,59,Comm&Mgmt,73,58.81,Mkt&HR,No,Not Placed
+M,61.8,Others,47,Others,Commerce,54.38,Comm&Mgmt,57,56.13,Mkt&Fin,No,Not Placed
+F,69,Central,73,Central,Commerce,65,Comm&Mgmt,70,57.31,Mkt&Fin,No,Placed
+F,83.96,Others,53,Others,Science,91,Sci&Tech,59.32,69.71,Mkt&HR,No,Placed
+F,73.58311912,Central,59.33371295,Central,Science,62.38839651,Others,77.33289948,60.86001302,Mkt&HR,Yes,Placed
+F,64,Others,70.2,Central,Commerce,61,Comm&Mgmt,50,62.5,Mkt&Fin,No,Not Placed
+M,73.74412086,Others,56.42512069,Others,Science,61.08533911,Others,79.03461241,60.88555773,Mkt&HR,No,Not Placed
+F,77,Central,86,Central,Arts,56,Others,57,64.08,Mkt&Fin,No,Placed
+M,81.2101911,Central,81.74083923,Others,Commerce,62.59864924,Comm&Mgmt,89.02041098,70.59081045,Mkt&Fin,Yes,Placed
+F,68.66818849,Central,67.71232365,Central,Arts,63.77281476,Others,67.63868213,61.13232536,Mkt&Fin,Yes,Placed
+M,84.78420511,Central,60.52531344,Others,Science,72.52211499,Sci&Tech,60.5993226,61.30611533,Mkt&Fin,Yes,Placed
+M,52.6,Central,65.58,Others,Science,72.11,Sci&Tech,57.6,56.66,Mkt&Fin,No,Placed
+F,52.17430202,Central,61.87458446,Central,Arts,54.95645907,Others,75.30052072,61.4688744,Mkt&Fin,Yes,Not Placed
+M,71.69113147,Central,52.35817754,Central,Science,65.37253428,Sci&Tech,66.66027038,66.7738775,Mkt&HR,No,Not Placed
+M,66.08360082,Central,54.3434412,Central,Science,64.85520893,Sci&Tech,63.81672016,58.63157572,Mkt&HR,No,Not Placed
+F,68.51733168,Central,67.90383999,Central,Arts,63.80239547,Others,67.39265562,61.13546999,Mkt&Fin,Yes,Placed
+M,61.56532928,Others,48.38322782,Others,Science,52.1405163,Others,74.57379938,56.99244609,Mkt&HR,No,Not Placed
+F,59,Central,60,Others,Commerce,56,Comm&Mgmt,55,57.9,Mkt&HR,No,Placed
+F,65.16026955,Central,68.24739189,Central,Arts,62.39279564,Others,67.87202337,60.19602622,Mkt&Fin,Yes,Placed
+M,60.28044523,Others,50.88209969,Others,Science,57.67289907,Others,73.36294794,59.8959842,Mkt&HR,No,Not Placed
+F,46,Others,49.2,Others,Commerce,79,Comm&Mgmt,74.28,53.29,Mkt&Fin,No,Not Placed
+M,61.9574671,Others,50.95376859,Others,Science,52.09246282,Others,68.55835241,62.90499572,Mkt&HR,No,Not Placed
+M,62,Central,65,Others,Commerce,60,Comm&Mgmt,84,64.15,Mkt&Fin,No,Not Placed
+F,64.58253824,Central,68.23718655,Central,Arts,61.4532205,Others,69.52562689,59.66102172,Mkt&Fin,Yes,Placed
+M,52.11466234,Central,64.77067532,Central,Commerce,57.34398702,Comm&Mgmt,74.4266883,59.05208193,Mkt&HR,Yes,Placed
+M,76.51426394,Others,60.88965381,Others,Science,75.27325183,Sci&Tech,94.85636489,64.92548173,Mkt&Fin,Yes,Placed
+M,83,Others,74,Others,Science,66,Comm&Mgmt,68.92,58.46,Mkt&HR,No,Placed
+M,68.97326857,Central,61.44931583,Others,Science,70.62279793,Sci&Tech,56.262005,70.89080897,Mkt&Fin,Yes,Not Placed
+F,67,Central,70.84894356,Central,Science,64.43120782,Others,67.62535467,62.87630396,Mkt&HR,Yes,Placed
+M,59.86675152,Others,50.26723535,Others,Science,54.13361767,Sci&Tech,70.4655293,64.83885542,Mkt&HR,No,Not Placed
+M,74.12585069,Central,77.3364273,Others,Science,73.74708377,Sci&Tech,84.54896883,67.42079877,Mkt&HR,Yes,Placed
+M,65,Central,65,Central,Commerce,75,Comm&Mgmt,83,58.87,Mkt&Fin,No,Placed
+F,81.2223337,Central,64.23931339,Central,Arts,69.72193429,Others,80.96524179,65.91991251,Mkt&HR,Yes,Placed
+M,78.5,Central,65.5,Central,Science,67,Sci&Tech,95,64.86,Mkt&Fin,Yes,Placed
+M,51.83750707,Others,52.32498587,Others,Science,55.97495761,Sci&Tech,65.86254946,59.53449067,Mkt&HR,No,Not Placed
+M,85,Central,60,Others,Science,73.43,Sci&Tech,60,61.29,Mkt&Fin,Yes,Placed
+M,71.90473439,Central,62.66016691,Central,Science,65.40584978,Sci&Tech,75.16504173,69.35984633,Mkt&HR,Yes,Placed
+F,85.47274956,Central,75.21650056,Central,Science,72.94549912,Others,76.256249,69.74133721,Mkt&HR,Yes,Placed
+M,80.92258667,Others,77.2414781,Others,Science,70.19815238,Sci&Tech,82.2414781,66.84826697,Mkt&Fin,No,Placed
+F,62.99862466,Central,68.541763,Central,Science,64.04128549,Others,84.39212851,66.49090501,Mkt&HR,Yes,Placed
+M,77.30373606,Central,62.69626394,Others,Science,73.52102541,Sci&Tech,63.21494426,67.25574641,Mkt&HR,No,Placed
+F,67,Central,70.3068101,Central,Science,64.79443723,Others,80.63655761,68.67713193,Mkt&HR,Yes,Placed
+M,53.05654485,Others,64.73586379,Others,Science,56.86793189,Others,75.66034053,59.39002342,Mkt&HR,No,Not Placed
+M,77.60397525,Central,75.13806944,Central,Science,75.93658962,Sci&Tech,82.63579649,72.31911646,Mkt&HR,Yes,Placed
+M,62,Others,51,Others,Science,52,Others,68.44,62.77,Mkt&HR,No,Not Placed
+M,54.80345433,Others,50.77873731,Others,Commerce,58.2744194,Comm&Mgmt,58.15439256,61.79069672,Mkt&Fin,No,Not Placed
+M,49.78533123,Central,58.47240961,Central,Commerce,58.7362048,Comm&Mgmt,58.45505448,63.44078015,Mkt&HR,Yes,Not Placed
+M,81.460829,Others,63.8358422,Others,Science,66.9012464,Sci&Tech,86.75952707,69.42166535,Mkt&Fin,Yes,Placed
+M,75.75957374,Central,79.83971582,Others,Science,77.59928956,Sci&Tech,96.03829495,70.10733929,Mkt&HR,Yes,Placed
+M,69,Central,63,Others,Science,65,Comm&Mgmt,55,58.23,Mkt&HR,Yes,Placed
+M,61.77183887,Others,50.92361443,Others,Science,52.67905916,Others,69.06710324,62.75029552,Mkt&HR,No,Not Placed
+M,58.90986405,Others,45.94326447,Others,Science,59.39361209,Others,74.10688608,58.89466003,Mkt&HR,No,Not Placed
+F,66.5979553,Central,69.27626234,Central,Arts,63.96944478,Others,65.09764496,61.09096444,Mkt&Fin,Yes,Placed
+M,54,Others,47,Others,Science,57,Comm&Mgmt,89.69,57.1,Mkt&HR,No,Not Placed
+M,61.27553724,Central,67.64346349,Central,Commerce,64.62161533,Comm&Mgmt,83.82074317,63.58346349,Mkt&Fin,No,Placed
+M,60.03229571,Others,46.86552422,Others,Science,56.28360673,Others,74.8470517,57.58431809,Mkt&HR,No,Not Placed
+M,59.172882,Others,64.60540025,Others,Science,71.31294362,Sci&Tech,56.61784522,58.67719482,Mkt&Fin,No,Not Placed
+F,66,Central,62,Central,Commerce,73,Comm&Mgmt,58,64.36,Mkt&HR,No,Placed
+M,65.07762207,Central,66.28158529,Others,Science,68.95342676,Sci&Tech,56.67757663,69.44611015,Mkt&HR,No,Placed
+F,86.56529488,Others,70.56298997,Others,Science,70.06887287,Sci&Tech,66.75054607,62.77329751,Mkt&Fin,Yes,Placed
+M,87.41368023,Others,67.0886223,Others,Science,68.86259643,Sci&Tech,75.05587657,59.21534216,Mkt&Fin,Yes,Placed
+M,49.92304355,Others,37.15391289,Others,Science,53.00043381,Others,64.84608711,55.73291341,Mkt&HR,No,Not Placed
+F,74,Others,66,Others,Commerce,58,Comm&Mgmt,70,60.23,Mkt&HR,No,Placed
+M,52.16817789,Others,51.96295641,Others,Science,54.98147821,Sci&Tech,67.07408718,59.43798383,Mkt&HR,No,Not Placed
+M,50.10405511,Others,37.1062465,Others,Science,52.08846261,Others,65.10664072,56.14337331,Mkt&HR,No,Not Placed
+M,73.55857902,Central,78.37238601,Others,Science,73.93096503,Sci&Tech,87.23431607,66.69579748,Mkt&HR,Yes,Placed
+F,73.31415394,Central,80.47123091,Central,Science,59.07030977,Others,59.58009224,63.04059141,Mkt&HR,Yes,Placed
+F,77,Central,87,Central,Commerce,59,Comm&Mgmt,68,68.63,Mkt&Fin,No,Placed
+F,54,Central,77.6,Others,Commerce,69.2,Comm&Mgmt,95.65,66.94,Mkt&Fin,No,Not Placed
+F,74.51353217,Central,59.77106428,Central,Arts,61.80451034,Others,79.01819781,61.73952349,Mkt&HR,Yes,Placed
+F,84,Central,73,Central,Commerce,73,Comm&Mgmt,75,73.33,Mkt&Fin,No,Placed
+M,73.36960808,Central,78,Others,Commerce,64.85687974,Comm&Mgmt,95.21311755,62.49597481,Mkt&Fin,Yes,Placed
+M,60.54111765,Others,46.0311947,Others,Science,54.07460469,Others,71.91162689,59.45740054,Mkt&HR,No,Not Placed
+M,61.73099925,Central,57.63012397,Others,Science,53.13450037,Comm&Mgmt,89.02320131,60.11508971,Mkt&HR,No,Not Placed
+M,79.5745228,Others,66.82937997,Others,Science,67.28411847,Sci&Tech,92.33701989,65.8908518,Mkt&Fin,Yes,Placed
+M,68.21986787,Central,62.18997169,Others,Science,76.01494809,Sci&Tech,76.91996225,54.24779188,Mkt&HR,No,Not Placed
+M,80.83156033,Others,67.83156033,Others,Science,64.2021276,Sci&Tech,93.13475173,62.71496449,Mkt&Fin,No,Placed
+F,68.4766938,Central,67.72094026,Central,Arts,63.76424657,Others,67.51040572,61.1176959,Mkt&Fin,Yes,Placed
+M,79.44244254,Others,64.28828816,Others,Science,65.65365351,Sci&Tech,93.38438422,65.01886889,Mkt&Fin,Yes,Placed
+M,83.55165509,Others,87.47763382,Others,Science,64.42527585,Sci&Tech,87.0801602,59.88926768,Mkt&Fin,Yes,Placed
+F,60.23,Central,69,Central,Science,66,Comm&Mgmt,72,59.47,Mkt&Fin,No,Placed
+M,59.96,Others,42.16,Others,Science,61.26,Sci&Tech,54.48,65.48,Mkt&HR,No,Not Placed
+M,49.02467873,Others,38.95064254,Others,Science,64.67917653,Others,63.04935746,51.33092577,Mkt&HR,No,Not Placed
+F,66.00685486,Central,72.91024433,Central,Arts,66.6999447,Others,69.79768355,63.76203849,Mkt&HR,Yes,Placed
+M,79.40258693,Central,75.91948261,Others,Science,65.87375911,Sci&Tech,58.32206955,56.02476479,Mkt&Fin,No,Placed
+M,59.1931293,Central,60.09843317,Others,Science,69.67638068,Sci&Tech,70.71889441,55.52900689,Mkt&HR,No,Not Placed
+M,75.52776275,Central,69.88194069,Central,Commerce,76.16971026,Comm&Mgmt,65.55727758,64.38539757,Mkt&Fin,Yes,Placed
+F,85.87864234,Others,71.75064454,Others,Science,69.78276764,Sci&Tech,65.4789673,62.66267016,Mkt&Fin,Yes,Placed
+M,59.727443,Others,54.82328987,Others,Science,58.72557004,Others,76.59303745,58.29941165,Mkt&HR,No,Not Placed
+M,61.02564348,Others,49.48516063,Others,Science,54.34740036,Others,70.26153426,61.8117011,Mkt&HR,No,Not Placed
+M,68.05094209,Central,62.62549512,Others,Science,71.20461513,Sci&Tech,55.7064312,69.93838868,Mkt&Fin,Yes,Not Placed
+M,83.30031692,Central,62.2662441,Others,Science,69.22045158,Sci&Tech,63.96592718,61.77157687,Mkt&Fin,Yes,Placed
+M,59.5843931,Others,42.77268793,Others,Science,55.43511552,Others,74.18829483,57.28502164,Mkt&HR,No,Not Placed
+M,80.77470045,Central,65.22529955,Central,Science,66,Sci&Tech,67.40843318,62.94733626,Mkt&Fin,No,Placed
+F,84.33977004,Others,73.91010653,Others,Science,70.36318014,Sci&Tech,65.03684055,63.54676534,Mkt&Fin,Yes,Placed
+M,61.97654566,Others,50.97450616,Others,Science,52.05098769,Others,68.50526424,62.84444203,Mkt&HR,No,Not Placed
+M,60.49818634,Others,48.4092274,Others,Science,55.53071372,Others,71.57601385,60.5131103,Mkt&HR,No,Not Placed
+M,84.83763282,Central,64.63655006,Others,Science,68.01318544,Sci&Tech,68.91731947,62.55797564,Mkt&Fin,No,Placed
+F,73,Central,97,Others,Commerce,79,Comm&Mgmt,89,70.81,Mkt&Fin,Yes,Placed
+M,80,Others,73,Others,Commerce,75,Comm&Mgmt,61,58.78,Mkt&Fin,No,Placed
+M,80.32713952,Others,67.32713952,Others,Science,64.80743258,Sci&Tech,93.53828839,63.17903164,Mkt&Fin,No,Placed
+F,76.92397451,Central,63.80635226,Central,Science,64.38442642,Comm&Mgmt,73.07940325,71.5913314,Mkt&HR,No,Not Placed
+F,63,Central,66,Central,Commerce,64,Comm&Mgmt,68,64.08,Mkt&HR,No,Not Placed
+M,68.5209146,Central,64.01805647,Others,Commerce,64.73650303,Comm&Mgmt,55.2395427,58.0347727,Mkt&Fin,Yes,Placed
+M,78.59806634,Others,61.04179682,Others,Science,66.89131043,Sci&Tech,93.04179682,65.74266102,Mkt&Fin,No,Placed
+M,65.2,Central,61.4,Central,Commerce,64.8,Comm&Mgmt,93.4,57.34,Mkt&Fin,Yes,Placed
+M,69.17315546,Central,61.4700752,Others,Science,71.94575842,Sci&Tech,55.54513073,69.09964541,Mkt&HR,No,Placed
+M,62,Others,50.67618228,Others,Science,51.83809114,Others,69.05201548,62.13774591,Mkt&HR,No,Not Placed
+M,63.61609652,Central,63.91984645,Central,Commerce,64.72800439,Comm&Mgmt,89.53383559,59.85984645,Mkt&Fin,No,Placed
+F,65.37552856,Central,69.50746766,Central,Science,64.10081328,Others,85.41712945,70.12032606,Mkt&HR,Yes,Placed
+F,84,Others,75,Others,Science,69,Sci&Tech,62,62.36,Mkt&HR,Yes,Placed
+M,68.93316179,Central,63,Others,Science,65.28877452,Sci&Tech,60.8248157,60.73587842,Mkt&Fin,No,Placed
+M,84.86,Others,67,Others,Science,78,Comm&Mgmt,95.5,68.53,Mkt&Fin,No,Placed
+M,78.36267165,Others,67.08662309,Others,Science,71.40825194,Sci&Tech,95.42513053,68.7635357,Mkt&Fin,No,Placed
+M,72.30135889,Others,63.15808991,Others,Science,77.19123065,Sci&Tech,78.0494031,54.43652527,Mkt&Fin,No,Placed
+M,52,Others,50,Others,Arts,61,Comm&Mgmt,60,58.52,Mkt&Fin,No,Not Placed
+F,73.24295267,Central,60.71406067,Central,Arts,62.36087074,Others,75.99637144,60.96212707,Mkt&HR,Yes,Placed
+F,85.30583729,Others,70.85540633,Others,Science,70.25885862,Sci&Tech,65.85544717,63.12378012,Mkt&Fin,Yes,Placed
+M,77.12887967,Central,70.55213315,Central,Science,65.27730593,Sci&Tech,72.58597375,70.08463954,Mkt&HR,Yes,Placed
+F,67.77448127,Central,69.61868163,Central,Commerce,64.96820913,Comm&Mgmt,68,68.64873683,Mkt&HR,No,Not Placed
+M,76.57262549,Central,97.20291315,Others,Science,78.82458545,Sci&Tech,97.12027637,73.81162719,Mkt&Fin,Yes,Placed
+F,77,Others,73,Others,Commerce,81,Comm&Mgmt,89,69.7,Mkt&Fin,Yes,Placed
+M,82.10136236,Central,64.55749295,Others,Science,66.15204353,Sci&Tech,66.74659411,62.15114986,Mkt&Fin,No,Placed
+F,61,Central,81,Central,Commerce,66.4,Comm&Mgmt,50.89,62.21,Mkt&HR,No,Placed
+M,76.8352445,Others,63.35554641,Others,Science,79.92670062,Sci&Tech,94.53935581,66.95931391,Mkt&Fin,Yes,Placed
+F,68.90254736,Central,67.62839708,Central,Arts,63.76886894,Others,67.85326048,61.14440219,Mkt&Fin,Yes,Placed
+M,76.50458574,Central,66.42890173,Central,Science,64.68578035,Sci&Tech,74.01567116,71.04159666,Mkt&Fin,No,Placed
+M,58.91229369,Others,46.11681811,Others,Science,59.48043763,Others,74.05093809,58.99811535,Mkt&HR,No,Not Placed
+M,76.85567089,Central,75.60323161,Others,Science,75.45929278,Sci&Tech,83.0200609,71.2644118,Mkt&HR,Yes,Placed
+M,54.87091398,Others,59.71147425,Others,Science,58.13325552,Others,75,59.53424116,Mkt&HR,No,Not Placed
+F,79,Others,76,Others,Commerce,85,Comm&Mgmt,95,69.06,Mkt&Fin,No,Placed
+M,66,Central,76,Central,Commerce,72,Comm&Mgmt,84,58.95,Mkt&HR,Yes,Placed
+F,79.29545755,Others,60.52345556,Others,Science,76.42330485,Sci&Tech,69.36381318,68.28994776,Mkt&HR,No,Placed
+M,68.0527523,Central,62.66774754,Others,Science,71.43771354,Sci&Tech,55.57217494,69.61734894,Mkt&Fin,Yes,Not Placed
+M,62,Central,67,Central,Commerce,58,Comm&Mgmt,77,51.29,Mkt&Fin,No,Not Placed
+M,74.27005961,Central,77.21050348,Others,Science,73.81009208,Sci&Tech,84.34780723,67.62009753,Mkt&HR,Yes,Placed
+M,75.73346034,Others,61.16540287,Others,Science,82.98221597,Sci&Tech,97.27581717,65.59851185,Mkt&Fin,Yes,Placed
+M,72,Others,63,Others,Science,77.5,Sci&Tech,78,54.48,Mkt&Fin,Yes,Placed
+F,63.3,Central,78.33,Others,Commerce,74,Comm&Mgmt,80,74.56,Mkt&Fin,No,Not Placed
+F,67.98912093,Central,70.33326596,Central,Science,65.4521401,Others,81.97985881,69.37705202,Mkt&HR,Yes,Placed
+F,76.51778129,Central,58.85242132,Central,Arts,63.97591607,Others,80.24698951,62.09521914,Mkt&HR,Yes,Placed
+F,67.16,Central,72.5,Central,Commerce,63.35,Comm&Mgmt,53.04,65.52,Mkt&Fin,No,Placed
+M,63.6597606,Central,60.8839451,Central,Science,64.58137144,Sci&Tech,62.64315147,60.03867231,Mkt&HR,No,Not Placed
+F,65.07752306,Central,66.1596303,Central,Arts,63.06723275,Others,67.03989288,60.61004131,Mkt&Fin,Yes,Placed
+M,79.08266957,Central,90.30589125,Others,Science,73.55619939,Sci&Tech,92.29624385,69.79333083,Mkt&Fin,Yes,Placed
+M,73,Central,73,Central,Science,66,Sci&Tech,70,68.07,Mkt&Fin,Yes,Placed
+F,77.44,Central,92,Others,Commerce,72,Comm&Mgmt,94,67.13,Mkt&Fin,Yes,Placed
+M,76.98671347,Central,84.49984287,Others,Commerce,68.89296936,Comm&Mgmt,86.52954518,64.71544794,Mkt&Fin,Yes,Placed
+M,65.99995632,Central,65.29571473,Others,Science,70.09000221,Sci&Tech,55.52738642,69.35917604,Mkt&Fin,Yes,Not Placed
+M,50.63567654,Others,37.60176872,Others,Science,52.00931514,Others,65.59711115,56.09578581,Mkt&HR,No,Not Placed
+F,85.13328725,Central,73.95233162,Central,Arts,73.97888966,Others,78.65708939,70.37432232,Mkt&HR,Yes,Placed
+M,62,Central,58,Others,Science,53,Comm&Mgmt,89,60.22,Mkt&HR,No,Not Placed
+F,75.19284253,Central,61.04401596,Central,Science,61.16330704,Others,76.792677,61.24018113,Mkt&HR,Yes,Placed
+M,66.40698957,Central,71.14825261,Central,Commerce,63.87634702,Comm&Mgmt,61.92446349,59.87828569,Mkt&Fin,Yes,Placed
+M,61.26910686,Others,48.22062881,Others,Science,52.89435548,Others,70.72741262,60.54413292,Mkt&HR,No,Not Placed
+M,55.03609378,Others,50.68436764,Others,Commerce,59.4586528,Comm&Mgmt,57.53580275,60.45577991,Mkt&Fin,No,Not Placed
+M,58,Central,70,Central,Commerce,61,Comm&Mgmt,54,52.21,Mkt&Fin,No,Not Placed
+M,83.49060262,Others,77.8538559,Others,Science,68.50939738,Sci&Tech,84.38204803,67.24396965,Mkt&Fin,Yes,Placed
+F,81.63887256,Central,65.7128215,Central,Arts,70.80246105,Others,81.44498702,67.05425078,Mkt&HR,Yes,Placed
+M,62.36672078,Central,66.52932365,Central,Commerce,67.42505075,Comm&Mgmt,84.69867115,61.72904511,Mkt&Fin,No,Placed
+M,62.10844556,Central,67,Others,Commerce,59.735129,Comm&Mgmt,77.54222781,52.2822769,Mkt&HR,No,Not Placed
+M,54.56013721,Others,64.3599657,Others,Science,56.67998285,Others,76.60008575,58.79234546,Mkt&HR,No,Not Placed
+M,77.13039848,Others,82.82180651,Others,Science,69.80512602,Sci&Tech,85.39874167,63.42468574,Mkt&Fin,Yes,Placed
+F,72.93517098,Central,62.89435704,Central,Science,65.19507866,Comm&Mgmt,75.22358926,69.84579086,Mkt&HR,No,Not Placed
+M,74,Central,62,Others,Science,68,Comm&Mgmt,74,57.99,Mkt&Fin,No,Placed
+F,47,Central,55,Others,Science,65,Comm&Mgmt,62,65.04,Mkt&HR,No,Not Placed
+M,60.69522415,Others,46.55606579,Others,Science,53.85545744,Others,71.54490763,59.80732121,Mkt&HR,No,Not Placed
+F,52.91352246,Central,60.51042147,Central,Arts,54.09037245,Others,75.83584804,61.83636596,Mkt&Fin,Yes,Not Placed
+M,52,Central,63,Others,Science,65,Sci&Tech,86,56.09,Mkt&HR,Yes,Not Placed
+F,82.99423983,Others,75.79825625,Others,Science,70.87067029,Sci&Tech,64.65026209,64.31978384,Mkt&Fin,Yes,Placed
+M,79.36911065,Others,60.42806753,Others,Science,63.56709496,Sci&Tech,90.7157974,64.40336359,Mkt&Fin,Yes,Placed
+M,73.74254378,Central,73.37127189,Central,Science,67.29945161,Sci&Tech,71.85635944,67.88065134,Mkt&Fin,No,Placed
+M,87,Central,74,Central,Science,65,Sci&Tech,75,72.29,Mkt&HR,Yes,Placed
+M,80,Others,80,Others,Commerce,72,Comm&Mgmt,63.79,66.04,Mkt&Fin,Yes,Placed
+M,81.9244237,Others,63.93428148,Others,Science,72.86429126,Sci&Tech,95.93428148,71.63609852,Mkt&Fin,No,Placed
+F,77.41869984,Central,85.4671093,Central,Arts,56.83739967,Others,57.95159054,64.35976762,Mkt&HR,Yes,Placed
+F,68.80002954,Others,62.99999131,Others,Commerce,60.80000348,Comm&Mgmt,91.92803444,68.05401696,Mkt&Fin,No,Placed
+M,61.95352123,Others,50.9494796,Others,Science,52.1010408,Others,68.56933222,62.91751957,Mkt&HR,No,Not Placed
+M,66,Central,64,Central,Science,60,Comm&Mgmt,60,61.9,Mkt&HR,No,Not Placed
+F,66.5,Others,70.4,Central,Arts,71.93,Comm&Mgmt,61,64.27,Mkt&Fin,No,Placed
+M,74.2,Central,87.6,Others,Commerce,77.25,Comm&Mgmt,75.2,66.06,Mkt&Fin,Yes,Placed
+F,85.21526154,Central,72.04411012,Central,Arts,75.96385436,Others,82.21712667,71.3434859,Mkt&HR,Yes,Placed
+M,70.33982646,Central,61.52515315,Others,Science,63.2813883,Sci&Tech,59.48571628,60.51439349,Mkt&Fin,No,Placed
+M,76.8441112,Others,60.1389722,Others,Science,70.09320915,Sci&Tech,93.6676664,64.07304937,Mkt&Fin,Yes,Placed
+M,73.90979699,Central,73.0649855,Central,Science,65.9350145,Sci&Tech,70.32492749,68.34423881,Mkt&HR,Yes,Placed
+F,70.06062733,Central,72.24964763,Central,Arts,67.9320963,Others,69.24195657,63.9198007,Mkt&HR,Yes,Placed
+M,62.56518887,Central,60.26075547,Others,Science,59.7822664,Comm&Mgmt,88.1522167,60.48563877,Mkt&HR,No,Not Placed
+M,68.4367031,Central,75.86517471,Others,Commerce,73.94365222,Comm&Mgmt,80.08356997,63.88352309,Mkt&Fin,Yes,Placed
+M,79.76553471,Central,74.35169794,Central,Science,77.76037506,Sci&Tech,83.47830719,75.42654332,Mkt&HR,Yes,Placed
+M,62,Central,47,Central,Commerce,50,Comm&Mgmt,76,54.96,Mkt&HR,No,Not Placed
+M,80.90779278,Others,66.06234881,Others,Science,68.00156262,Sci&Tech,88.2517642,68.81327623,Mkt&Fin,Yes,Placed
+M,60,Others,67,Others,Arts,70,Comm&Mgmt,50.48,77.89,Mkt&Fin,Yes,Placed
+M,59.11690544,Central,74.79294092,Central,Commerce,62.40977322,Comm&Mgmt,53.7026247,56.49214343,Mkt&Fin,No,Not Placed
+M,74.1438435,Others,68.14522441,Others,Science,75.57054085,Sci&Tech,78.8575374,59.86962257,Mkt&Fin,No,Placed
+M,57.35933237,Others,63.66016691,Others,Science,56.33008345,Others,78.34958273,57.67966538,Mkt&HR,No,Not Placed
+M,55,Others,49.8,Others,Science,67.25,Sci&Tech,55,51.58,Mkt&Fin,Yes,Not Placed
+M,47.15765792,Central,54.36936832,Others,Commerce,63.89639456,Comm&Mgmt,61.68468416,64.054638,Mkt&HR,No,Not Placed
+F,66.14149661,Central,63.42138033,Central,Arts,62.79349915,Others,69.40282514,60.58951783,Mkt&Fin,Yes,Placed
+M,62.89352546,Central,64.82949728,Others,Commerce,60.83395709,Comm&Mgmt,61.21294909,53.63689247,Mkt&HR,Yes,Placed
+M,84.31059919,Central,66.28789966,Others,Science,71.40292548,Sci&Tech,60.61199655,61.35725215,Mkt&Fin,No,Placed
+F,65.66624419,Central,69.34975137,Central,Arts,62.79167294,Others,66.9840477,60.40743735,Mkt&Fin,Yes,Placed
+F,64.87766374,Central,68.57447285,Central,Arts,61.80441985,Others,68.8510543,59.85622616,Mkt&Fin,Yes,Placed
+F,77.54176182,Central,82.62822715,Central,Science,59.12662836,Others,61.93508703,64.67689781,Mkt&HR,Yes,Placed
+M,64.28691504,Central,78.56542478,Central,Commerce,66.14766017,Comm&Mgmt,69.86074513,59.66127445,Mkt&Fin,Yes,Placed
+M,81.27794196,Others,64.30945344,Others,Science,71.76218622,Sci&Tech,95.7936977,70.34445113,Mkt&Fin,No,Placed
+F,74,Others,63.16,Others,Commerce,65,Comm&Mgmt,65,69.76,Mkt&HR,Yes,Not Placed
+M,69.84481697,Central,65.17256237,Others,Science,70.32443457,Sci&Tech,56.14799244,59.62536384,Mkt&Fin,Yes,Placed
+M,66.79951591,Central,54.91769351,Central,Science,66.54356295,Sci&Tech,71.8731537,65.45789986,Mkt&HR,No,Not Placed
+M,79.85655428,Others,81.26739333,Others,Science,69.10571671,Sci&Tech,84.82994606,64.75073095,Mkt&Fin,Yes,Placed
+M,77.89731439,Central,62.10268561,Others,Science,74.21353345,Sci&Tech,65.58925756,67.58617168,Mkt&HR,No,Placed
+M,64.15186607,Central,66.02638602,Others,Science,70.08889418,Sci&Tech,54.66329816,72.28344208,Mkt&Fin,Yes,Not Placed
+F,68.08500849,Central,71.05166707,Central,Arts,65.03628886,Others,64.93000727,61.78545411,Mkt&HR,Yes,Placed
+M,81.46363377,Central,67.98221062,Central,Science,64.51857685,Sci&Tech,75.30088947,72.19973316,Mkt&HR,Yes,Placed
+F,81.97646002,Central,79.66632361,Central,Science,65.95292004,Others,68.31013641,67.4051801,Mkt&HR,Yes,Placed
+F,53.94152242,Others,65.94152242,Central,Commerce,62.94152242,Comm&Mgmt,58.2358707,65.74520751,Mkt&Fin,No,Not Placed
+M,58,Central,62,Central,Commerce,64,Comm&Mgmt,53.88,54.97,Mkt&Fin,No,Placed
+M,77.67,Others,64.89,Others,Commerce,70.67,Comm&Mgmt,89,60.39,Mkt&Fin,No,Placed
+M,74.09425866,Central,70,Central,Commerce,72.18851731,Comm&Mgmt,60.28277597,57.57933116,Mkt&Fin,Yes,Placed
+M,74.70760342,Central,77.78374195,Others,Commerce,64.84953139,Comm&Mgmt,94.50033741,62.00856854,Mkt&Fin,Yes,Placed
+M,72.52791657,Others,72.71674994,Others,Science,65.90558331,Sci&Tech,70.23604172,67.99399457,Mkt&HR,No,Placed
+F,70.42175938,Central,70.24996508,Central,Science,67.14556203,Others,86.65491734,71.60732531,Mkt&HR,Yes,Placed
+M,67.86193867,Central,62.34629264,Others,Science,68.58920366,Sci&Tech,57.17268684,73.51301845,Mkt&Fin,Yes,Not Placed
+M,69.64048612,Central,62.82221888,Others,Science,70.37738754,Sci&Tech,55.13097244,63.73041408,Mkt&Fin,Yes,Not Placed
+M,60.8,Central,68.4,Central,Commerce,64.6,Comm&Mgmt,82.66,64.34,Mkt&Fin,Yes,Placed
+M,64.18960411,Central,62.07930694,Others,Science,64.36554448,Comm&Mgmt,88.51671498,62.01283977,Mkt&HR,No,Not Placed
+M,60.19922973,Others,51.23499205,Others,Science,60.07833068,Others,75.19582671,59.14658108,Mkt&HR,No,Not Placed
+F,73.32107315,Central,62.98206208,Central,Science,65.11614413,Comm&Mgmt,75.24551552,70.02777881,Mkt&HR,No,Not Placed
+M,71,Central,58.66,Central,Science,58,Sci&Tech,56,61.3,Mkt&Fin,Yes,Placed
+M,61.74750862,Others,49.70328414,Others,Science,52.16539764,Others,71.49017077,60.15930344,Mkt&HR,No,Not Placed
+M,60.67997393,Others,46.315521,Others,Science,53.78284196,Others,71.93765955,59.40444391,Mkt&HR,No,Not Placed
+M,51,Others,54,Others,Science,61,Sci&Tech,60,60.64,Mkt&HR,No,Not Placed
+M,57.83868933,Others,49.5556843,Others,Commerce,56.37343376,Comm&Mgmt,57.40252028,60.34048989,Mkt&HR,No,Not Placed
+F,84.77321562,Central,68.98772569,Central,Science,65.68896109,Others,79.11812981,53.87855696,Mkt&HR,Yes,Placed
+M,80.63372067,Others,68.73255865,Others,Science,66.93023461,Sci&Tech,90.80232404,65.66604869,Mkt&Fin,Yes,Placed
+F,65.59668539,Central,67.20725782,Central,Arts,63.50887132,Others,66.0860082,60.8465911,Mkt&Fin,Yes,Placed
+M,67.74523043,Central,63.56464631,Others,Commerce,66.41161577,Comm&Mgmt,55.31369239,57.82533681,Mkt&Fin,Yes,Placed
+M,65.20429967,Central,77.81036424,Others,Science,66.53274503,Sci&Tech,66.4162298,57.02595381,Mkt&Fin,No,Placed
+M,80.82382329,Others,67.82382329,Others,Science,64.21141205,Sci&Tech,93.14094137,62.72208257,Mkt&Fin,No,Placed
+F,66.60920143,Central,67.56589734,Central,Science,68.31597223,Others,80.45166486,70.49267898,Mkt&HR,Yes,Placed
+F,63.83011118,Central,68.94337039,Central,Science,63.30939263,Others,85.25276302,69.39239005,Mkt&HR,Yes,Placed
+F,83.28934239,Central,71.55136594,Central,Arts,75.08387862,Others,83.34590217,71.54888803,Mkt&HR,Yes,Placed
+F,71.33002365,Central,63.32654037,Central,Arts,63.05291708,Others,72.76966815,60.99690996,Mkt&Fin,Yes,Placed
+F,56.99837021,Central,66.75020372,Central,Commerce,64,Comm&Mgmt,61.99837021,66.48065192,Mkt&HR,No,Not Placed
+M,54.94275285,Others,61.52862357,Others,Science,68.43321166,Sci&Tech,80.1144943,54.87856674,Mkt&Fin,No,Placed
+F,69.95594284,Central,65.76162028,Central,Arts,63.45818395,Others,69.98671969,61.08039841,Mkt&Fin,Yes,Placed
+F,79.84391797,Central,82.38046804,Central,Science,61.68783594,Others,63.46344993,65.98025428,Mkt&HR,Yes,Placed
+F,75.2,Central,73.2,Central,Science,68.4,Comm&Mgmt,65,62.98,Mkt&HR,No,Placed
+M,60.26299311,Others,48.26961758,Others,Science,56.19977367,Others,71.62902687,60.79635465,Mkt&HR,No,Not Placed
+M,77.00770883,Others,82.86642451,Others,Commerce,73.696611,Comm&Mgmt,70.11033383,65.79148428,Mkt&Fin,Yes,Placed
+M,84,Others,90.9,Others,Science,64.5,Sci&Tech,86.04,59.42,Mkt&Fin,No,Placed
+M,82.78124236,Central,60.94588514,Others,Science,73.48182909,Sci&Tech,63.89211779,63.86177523,Mkt&Fin,Yes,Placed
+M,66.06703113,Others,60.55690022,Others,Science,58.44309978,Others,80,58.31981068,Mkt&HR,No,Not Placed
+M,67,Others,67,Others,Commerce,73,Comm&Mgmt,59,69.72,Mkt&Fin,Yes,Placed
+M,73.08639142,Central,69.47605651,Central,Science,71.77750912,Comm&Mgmt,59.60208603,57.23702734,Mkt&Fin,Yes,Placed
+M,64.67490851,Others,61.58127287,Others,Commerce,69.67490851,Comm&Mgmt,67.34981702,61.85284567,Mkt&Fin,No,Placed
+M,68.62707587,Central,61.78325293,Others,Science,70.2758901,Sci&Tech,56.3801035,71.31259582,Mkt&Fin,Yes,Not Placed
+F,76.66072229,Central,85.49108344,Central,Arts,56.28261833,Others,57.2374944,63.98432369,Mkt&Fin,Yes,Placed
+M,73.95137188,Central,73.77880513,Central,Science,66.71437889,Sci&Tech,71.24641051,67.27332823,Mkt&Fin,No,Placed
+F,62.7670237,Central,64.6790244,Central,Science,64.04892502,Comm&Mgmt,66.83511852,63.13411624,Mkt&HR,No,Not Placed
+F,79,Central,76,Central,Science,65.6,Sci&Tech,58,55.47,Mkt&HR,No,Placed
+M,65.2732416,Central,55.53142782,Central,Science,64.72717217,Sci&Tech,63.65464832,58.90709786,Mkt&HR,No,Not Placed
+M,61.58698104,Others,48.42778404,Others,Science,52.09062188,Others,74.43040665,57.11273169,Mkt&HR,No,Not Placed
+F,73.47804258,Central,80.71706387,Central,Arts,58.93379053,Others,59.46537019,63.08680801,Mkt&HR,Yes,Placed
+F,64.84079799,Central,68.95607618,Central,Science,63.48255423,Others,85.99438438,69.53997344,Mkt&HR,Yes,Placed
+M,56,Central,52,Central,Science,52,Sci&Tech,66,59.43,Mkt&HR,No,Not Placed
+F,67,Central,70,Central,Commerce,65,Others,88,71.96,Mkt&HR,No,Not Placed
+M,53.56920843,Central,73.18027092,Others,Commerce,60.89698058,Comm&Mgmt,56.82339917,65.38656438,Mkt&Fin,Yes,Placed
+M,78.20814559,Others,74.39446387,Others,Science,78.55455211,Sci&Tech,87.87292422,68.72403173,Mkt&Fin,Yes,Placed
+M,65,Central,77,Central,Commerce,69,Comm&Mgmt,60,61.82,Mkt&HR,No,Placed
+M,66.10712204,Central,71.36160974,Central,Commerce,62.44941135,Comm&Mgmt,57.09226017,56.39979543,Mkt&Fin,Yes,Placed
+M,75.80001216,Central,93.76006846,Others,Science,77.68802036,Sci&Tech,94.92004309,72.37402843,Mkt&Fin,Yes,Placed
+F,82,Others,64,Others,Science,73,Sci&Tech,96,71.77,Mkt&Fin,Yes,Placed
+M,75.64006346,Others,60.9705453,Others,Science,83.2133204,Sci&Tech,97.5053662,65.47491531,Mkt&Fin,Yes,Placed
+M,73.97054149,Others,56.36574005,Others,Science,61.85793395,Others,79.65783875,60.67432834,Mkt&HR,No,Not Placed
+M,55.68,Others,61.33,Others,Commerce,56.87,Comm&Mgmt,66,58.3,Mkt&HR,No,Placed
+M,82.48487963,Central,81.7291272,Others,Commerce,66.17198602,Comm&Mgmt,86.08165211,69.88560335,Mkt&Fin,Yes,Placed
+M,64.45882339,Others,79.16577565,Others,Science,65.58395705,Sci&Tech,68.01561526,57.41224606,Mkt&Fin,No,Placed
+F,83.17656056,Central,73.80394496,Central,Science,65.34503966,Others,73.59591758,71.08315931,Mkt&HR,Yes,Placed
+M,46.79026131,Central,60.44147865,Others,Commerce,55.69756533,Comm&Mgmt,67.99941364,58.98295398,Mkt&HR,Yes,Not Placed
+M,52,Central,49,Others,Commerce,58,Comm&Mgmt,62,60.59,Mkt&HR,No,Not Placed
+M,57.36759147,Others,45.34020782,Others,Science,51.87234222,Others,67.5945893,59.70050963,Mkt&HR,No,Not Placed
+M,66.71026356,Central,64.88805349,Others,Science,70.07402008,Sci&Tech,55.43373585,68.0523713,Mkt&Fin,Yes,Not Placed
+M,78.02410139,Others,72.18071889,Others,Science,81,Sci&Tech,88.89758986,70.01542323,Mkt&Fin,Yes,Placed
+M,81,Others,68,Others,Science,64,Sci&Tech,93,62.56,Mkt&Fin,No,Placed
+M,61.72994168,Others,50.27844407,Others,Science,51.79675606,Others,69.13084538,61.82645004,Mkt&HR,No,Not Placed
+F,89.20039074,Others,65.5705597,Others,Science,71.33157109,Sci&Tech,71.9616136,63.3253902,Mkt&Fin,Yes,Placed
+M,63,Central,72,Central,Commerce,68,Comm&Mgmt,78,60.44,Mkt&HR,No,Placed
+M,63,Central,60,Central,Commerce,57,Comm&Mgmt,78,54.55,Mkt&Fin,Yes,Placed
+M,81.04561055,Others,77.9798379,Others,Science,67.79596758,Sci&Tech,79.65410943,65.6535153,Mkt&Fin,Yes,Placed
+F,83.25499399,Central,71.54809467,Central,Science,75.06261533,Others,83.355716,71.54975491,Mkt&HR,Yes,Placed
+M,53.18707396,Others,40.01707126,Others,Science,52.04670308,Others,67.99371972,56.03873471,Mkt&HR,No,Not Placed
+M,78.86208691,Others,65.03445968,Others,Science,66.48273298,Sci&Tech,94.37927958,64.92103751,Mkt&Fin,Yes,Placed
+M,66.87347411,Central,52.96580381,Central,Science,64.91450954,Sci&Tech,64.18807902,58.33299455,Mkt&HR,No,Not Placed
+M,53.10084297,Others,62.97213137,Others,Science,57.43454328,Others,75,59.70426114,Mkt&HR,No,Not Placed
+M,76.70613977,Others,82.34629118,Others,Science,70.13616473,Sci&Tech,85.35039867,63.67033128,Mkt&Fin,Yes,Placed
+M,76.25583283,Central,75.66515228,Others,Science,73.53175473,Sci&Tech,81.54420541,67.74379838,Mkt&HR,Yes,Placed
+M,63.12558101,Central,66.24186034,Central,Commerce,65.84164831,Comm&Mgmt,60,62.56207181,Mkt&Fin,Yes,Placed
+M,77.08119972,Others,82.78613422,Others,Science,69.84634567,Sci&Tech,85.38585888,63.45177362,Mkt&Fin,Yes,Placed
+F,43,Central,60,Others,Science,65,Comm&Mgmt,92.66,62.92,Mkt&HR,No,Not Placed
+F,66.39841193,Central,69.40345163,Central,Arts,63.96660263,Others,64.90929862,61.07586947,Mkt&Fin,Yes,Placed
+M,77.84450886,Central,78.25255733,Others,Science,76.42865714,Sci&Tech,86.14798788,66.17439636,Mkt&HR,Yes,Placed
+M,68.38269646,Others,52.56490329,Others,Science,57.22541698,Others,77.9521948,58.38746202,Mkt&HR,No,Not Placed
+M,84.6287866,Central,60.60505392,Others,Science,72.33757153,Sci&Tech,60.91056086,61.37431089,Mkt&Fin,Yes,Placed
+M,68.28242891,Central,61.60856464,Others,Science,62.07635664,Sci&Tech,58.71757109,61.68725388,Mkt&Fin,No,Placed
+M,61.92477663,Others,50.91823547,Others,Science,52.16352907,Others,68.64931721,63.00875244,Mkt&HR,No,Not Placed
+M,80.02760248,Others,61.93858282,Others,Science,63.93256383,Sci&Tech,91.25254206,64.87388021,Mkt&Fin,Yes,Placed
+M,75.91105691,Others,82.05760729,Others,Science,69.10623287,Sci&Tech,87.0433896,62.31615592,Mkt&Fin,Yes,Placed
+M,85.8,Central,73.6,Central,Commerce,73.3,Comm&Mgmt,96.8,55.5,Mkt&Fin,No,Placed
+M,59.41396344,Others,51.34269893,Others,Science,59.92656452,Others,75,59.0978693,Mkt&HR,No,Not Placed
+M,89.4,Others,65.66,Others,Science,71.25,Sci&Tech,72,63.23,Mkt&HR,No,Placed
+M,49.11952411,Others,38.76095178,Others,Science,63.44618656,Comm&Mgmt,63.23904822,51.79566814,Mkt&HR,No,Not Placed
+M,83.78203283,Others,88.82497256,Others,Science,64.58461667,Sci&Tech,86.47519044,59.89935804,Mkt&Fin,Yes,Placed
+M,61.69140992,Central,66.69140992,Others,Commerce,58,Comm&Mgmt,77.82290687,51.70248207,Mkt&HR,No,Not Placed
+M,73.9686738,Central,65.87507034,Central,Science,72,Sci&Tech,57.74999062,62.86423748,Mkt&HR,No,Placed
+F,88,Central,72,Central,Science,78,Others,82,71.43,Mkt&HR,No,Placed
+F,71.47955152,Central,70.42662395,Central,Science,67.77305571,Others,86.72012814,71.84694465,Mkt&HR,Yes,Placed
+M,79.9015827,Others,63.10045757,Others,Science,64.66664082,Sci&Tech,92.17508107,65.00513455,Mkt&Fin,Yes,Placed
+M,74.86349542,Central,77.59051112,Others,Science,74.26630747,Sci&Tech,84.87725358,66.96887948,Mkt&HR,Yes,Placed
+M,59.59134834,Others,46.5603243,Others,Science,57.53740986,Others,74.56184927,58.111692,Mkt&HR,No,Not Placed
+M,60.4873787,Others,45.6927164,Others,Science,54.07329978,Others,72.33330506,59.0318647,Mkt&HR,No,Not Placed
+M,74.9854759,Central,85.95337928,Others,Commerce,75.02037728,Comm&Mgmt,78.38134432,65.31102853,Mkt&Fin,Yes,Placed
+F,69.02314225,Central,62.22799362,Central,Arts,62.71323203,Others,72.16794542,60.72519295,Mkt&Fin,Yes,Placed
+F,73,Others,63,Others,Science,66,Comm&Mgmt,89,60.5,Mkt&Fin,No,Placed
+F,85.86620195,Others,63.97585287,Others,Science,70.7451125,Sci&Tech,61.45519272,61.19028723,Mkt&Fin,Yes,Placed
+M,75.32971488,Central,94.37644721,Others,Science,75.32702609,Sci&Tech,91.62355279,68.87906515,Mkt&Fin,Yes,Placed
+F,68.60021254,Central,64.06936499,Central,Arts,62.07745132,Others,81.99043738,62.78317345,Mkt&HR,Yes,Placed
+M,80.982339,Others,65.9215877,Others,Science,68.34272005,Sci&Tech,88.78060312,69.01508096,Mkt&Fin,Yes,Placed
+M,61.82627268,Others,50.40830236,Others,Science,52.24704907,Others,68.85340993,62.37552745,Mkt&HR,No,Not Placed
+M,66.49533265,Others,75.46303155,Others,Science,68.17587791,Sci&Tech,63.64637723,56.35696399,Mkt&Fin,No,Placed
+M,59.76467315,Others,55.94019464,Others,Science,58.35326845,Others,77.05841443,58.07137693,Mkt&HR,No,Not Placed
+M,70.09643315,Central,62.63778043,Others,Science,69.82945619,Sci&Tech,55.26786985,62.12589883,Mkt&Fin,Yes,Placed
+M,59.07231415,Others,45.17967918,Others,Science,58.44026821,Others,74.12649214,58.50700303,Mkt&HR,No,Not Placed
+F,66.41979829,Central,68.60659991,Central,Arts,63.82819393,Others,65.51013591,61.02353856,Mkt&Fin,Yes,Placed
+M,62.50113444,Central,60.59760579,Central,Science,64.18895235,Sci&Tech,62.69931934,60.20541974,Mkt&HR,No,Not Placed
+M,44,Central,58,Central,Arts,55,Comm&Mgmt,64.25,58.54,Mkt&HR,Yes,Not Placed
+F,59.34974722,Central,67.44991574,Central,Science,60.91986518,Others,81.36978092,65.76329524,Mkt&HR,Yes,Placed
+M,59.6,Central,51,Central,Science,60,Others,75,59.08,Mkt&HR,No,Not Placed
+F,69.19279743,Central,67.11402987,Central,Arts,63.68326354,Others,68.44110871,61.12676674,Mkt&Fin,Yes,Placed
+F,69.32750914,Central,66.87530026,Central,Arts,63.64353211,Others,68.71394256,61.11858172,Mkt&Fin,Yes,Placed
+F,78.88730666,Central,61.56561832,Central,Arts,66.86999287,Others,80.60874911,64.021589,Mkt&HR,Yes,Placed
+M,57.29456111,Central,51.53002153,Others,Science,55.35271944,Comm&Mgmt,89.4058441,58.38487883,Mkt&HR,No,Not Placed
+F,68.04474106,Central,64.86577681,Central,Commerce,66.61185266,Comm&Mgmt,70.53445806,58.11820292,Mkt&HR,Yes,Placed
+M,59,Central,64,Others,Science,58,Sci&Tech,85,55.3,Mkt&HR,No,Not Placed
+M,77.89331468,Others,61.3442632,Others,Science,65.13162918,Sci&Tech,92.5523663,64.00492469,Mkt&Fin,Yes,Placed
+M,76.33267033,Others,73,Others,Science,79.2204542,Sci&Tech,86.99801098,69.25288912,Mkt&Fin,Yes,Placed
+M,54.4,Central,61.12,Central,Commerce,56.2,Comm&Mgmt,67,62.65,Mkt&HR,No,Not Placed
+M,68.9358432,Others,60.0641568,Others,Commerce,64.89478286,Comm&Mgmt,87.7001269,52.86697123,Mkt&Fin,No,Placed
+F,84.90182541,Central,71.60179781,Central,Arts,76.02290664,Others,82.84212336,71.4258413,Mkt&HR,Yes,Placed
+F,71.23580221,Central,63.02969257,Central,Science,63.39146752,Others,83.71058004,65.96553561,Mkt&HR,Yes,Placed
+F,76.0371974,Central,84.5557961,Central,Arts,56.80201457,Others,57.67396182,63.80848967,Mkt&Fin,Yes,Placed
+F,67,Central,53,Central,Science,65,Sci&Tech,64,58.32,Mkt&HR,No,Not Placed
+M,68.60859538,Central,75.81210564,Central,Commerce,73.92147296,Comm&Mgmt,80.11646424,63.99905777,Mkt&Fin,No,Placed
+M,51.2857587,Others,53.4284826,Others,Science,59.2854478,Sci&Tech,62.0003109,60.26279852,Mkt&HR,No,Not Placed
+F,75.66382326,Central,83.99573489,Central,Arts,57.11303523,Others,57.93532372,63.70319816,Mkt&Fin,Yes,Placed
+M,81.7,Others,63,Others,Science,67,Comm&Mgmt,86,70.2,Mkt&Fin,Yes,Placed
+M,61.69005034,Others,50.10128639,Others,Science,52.49164937,Others,69.20484311,62.43469691,Mkt&HR,No,Not Placed
+M,62,Others,50.94003633,Others,Science,51.97001817,Others,68.55333133,62.65292094,Mkt&HR,No,Not Placed
+F,87.68068678,Others,68.39795608,Others,Science,70.62299162,Sci&Tech,68.99579498,63.02219497,Mkt&Fin,Yes,Placed
+F,62.17201742,Central,62,Central,Commerce,73.85217997,Comm&Mgmt,74.31720174,67.31402972,Mkt&HR,No,Not Placed
+M,66.31315482,Others,64.23903765,Others,Science,65.10438494,Sci&Tech,75,67.30485448,Mkt&HR,No,Placed
+F,80.22322313,Central,81.89771602,Central,Science,62.44644626,Others,64.32550711,66.23369909,Mkt&HR,Yes,Placed
+M,56.80568111,Others,48.01924875,Others,Commerce,56.22484024,Comm&Mgmt,59.54812188,58.40292472,Mkt&HR,No,Not Placed
+M,67.2368292,Others,67.2895124,Others,Commerce,64.592073,Comm&Mgmt,73.52373195,54.53915336,Mkt&HR,Yes,Placed
+M,42.93083244,Central,59.37749197,Others,Science,64.8270811,Comm&Mgmt,92.8100936,62.59041658,Mkt&HR,No,Not Placed
+M,59.04243444,Others,45.32012666,Others,Science,58.61561829,Others,74.12288597,58.57830541,Mkt&HR,No,Not Placed
+M,83.95988071,Central,81.71557466,Others,Commerce,70.30685936,Comm&Mgmt,82.68107823,69.06957558,Mkt&Fin,Yes,Placed
+F,67,Central,70.18115096,Central,Science,64.87862886,Others,83.65237692,70.02168471,Mkt&HR,Yes,Placed
+M,63.88113287,Central,64.25735945,Others,Commerce,61.5049063,Comm&Mgmt,67.28898295,52.7976115,Mkt&HR,Yes,Placed
+M,61.40822622,Others,50.06404578,Others,Science,53.43369655,Others,69.51522881,62.04648778,Mkt&HR,No,Not Placed
+M,64.96987825,Central,65.90652117,Others,Science,69.74167287,Sci&Tech,55.81884432,71.45281443,Mkt&Fin,Yes,Not Placed
+F,69.25929935,Central,72.02188547,Others,Science,70.65207636,Sci&Tech,56.98818343,55.18512104,Mkt&HR,No,Placed
+M,77,Others,75,Others,Science,73,Sci&Tech,80,67.05,Mkt&Fin,No,Placed
+F,74.30703965,Central,81.96055948,Central,Arts,58.24323597,Others,58.88507224,63.32058518,Mkt&HR,Yes,Placed
+F,65.08027302,Central,65.81154871,Central,Arts,63.2067003,Others,66.85364821,60.69445881,Mkt&Fin,Yes,Placed
+M,60.29304248,Others,48.31751147,Others,Science,56.12678789,Others,71.57514598,60.83636055,Mkt&HR,No,Not Placed
+M,81.55054064,Central,89.71981847,Others,Commerce,75.5125069,Comm&Mgmt,85.92404782,73.2079909,Mkt&Fin,Yes,Placed
+F,74.9,Others,57,Others,Science,62,Others,80,60.78,Mkt&Fin,Yes,Placed
+F,71.24101649,Central,71.20195317,Central,Arts,67.09069978,Others,67.63515699,63.3138637,Mkt&HR,Yes,Placed
+M,68.2,Central,72.8,Central,Commerce,66.6,Comm&Mgmt,96,70.85,Mkt&Fin,Yes,Placed
+M,59.58159742,Others,50.87348226,Others,Science,59.98849839,Others,74.97699677,59.07689456,Mkt&HR,No,Not Placed
+M,61.96332895,Others,50.39269422,Others,Science,51.81858394,Others,69.68804213,61.52785372,Mkt&HR,No,Not Placed
+M,69,Others,60,Others,Commerce,65,Comm&Mgmt,87.55,52.81,Mkt&Fin,No,Placed
+F,56.28,Others,62.83,Others,Commerce,59.79,Comm&Mgmt,60,57.29,Mkt&HR,No,Not Placed
+M,82,Central,64,Central,Science,66,Sci&Tech,67,62.14,Mkt&Fin,Yes,Placed
+M,61.47962687,Others,47.86728855,Others,Science,52.16822138,Others,75.78317786,55.85330721,Mkt&HR,No,Not Placed
+M,54.1456983,Others,51.56439904,Others,Science,53.82632724,Sci&Tech,65.73757382,59.56341111,Mkt&HR,No,Not Placed
+M,64.31632168,Central,78.66812078,Central,Commerce,66.05123313,Comm&Mgmt,69.54511727,59.27655572,Mkt&Fin,Yes,Placed
+M,59.94074366,Others,61.22230967,Others,Science,56.59256344,Others,79.2592957,56.99294511,Mkt&HR,No,Not Placed
+M,53.50648442,Central,64.46716347,Central,Commerce,58.8975991,Comm&Mgmt,73.70333913,57.73895873,Mkt&HR,Yes,Placed
+M,80.10552452,Others,67.78348985,Others,Science,67.10670786,Sci&Tech,91.56763944,65.77815252,Mkt&Fin,Yes,Placed
+M,63,Others,67,Others,Commerce,66,Comm&Mgmt,68,57.69,Mkt&HR,No,Placed
+M,82,Others,61,Others,Science,62,Sci&Tech,89,65.45,Mkt&Fin,No,Placed
+M,47.07884239,Central,54.68463044,Others,Commerce,64.44810327,Comm&Mgmt,61.84231522,64.54723506,Mkt&HR,No,Not Placed
+M,80.7437578,Others,61.02993755,Others,Science,62.8159118,Sci&Tech,89.95030803,64.85757933,Mkt&Fin,Yes,Placed
+M,49.90231843,Others,41.25579607,Others,Arts,61.39072628,Comm&Mgmt,63.45115921,51.31827821,Mkt&Fin,No,Not Placed
+F,74.94292473,Central,60.57569794,Central,Arts,61.39920528,Others,77.61144453,61.42388883,Mkt&HR,Yes,Placed
+M,72.92267843,Central,69.37754754,Others,Science,71.70074401,Comm&Mgmt,59.52119041,57.20408928,Mkt&Fin,Yes,Placed
+M,78.39921925,Others,62.12867689,Others,Science,78.86667367,Sci&Tech,97.06770221,68.17358693,Mkt&Fin,Yes,Placed
+F,85.63746344,Central,74.59768293,Central,Science,73.68799331,Others,77.39587226,70.05880976,Mkt&HR,Yes,Placed
+M,64.98603988,Central,65.8888335,Others,Science,69.74683853,Sci&Tech,55.8197039,71.44832815,Mkt&Fin,Yes,Not Placed
+M,75.56426167,Others,60.81239707,Others,Science,83.40088692,Sci&Tech,97.69167034,65.37460319,Mkt&Fin,Yes,Placed
+F,73.8347189,Central,81.71756086,Central,Science,56,Others,61.28243914,62.69286211,Mkt&HR,Yes,Placed
+F,52,Central,64,Central,Commerce,61,Comm&Mgmt,55,62.93,Mkt&Fin,No,Not Placed
+M,59.86830386,Others,43.73965919,Others,Science,55.03138002,Others,73.51268707,57.92968133,Mkt&HR,No,Not Placed
+M,47.46013041,Others,46.22751737,Others,Science,72.4111384,Comm&Mgmt,70.22817286,52.5522409,Mkt&Fin,No,Not Placed
+M,79.31491756,Others,63.32954083,Others,Science,65.21370336,Sci&Tech,92.80967999,64.82613565,Mkt&Fin,Yes,Placed
+M,75.46416884,Others,73,Others,Commerce,76.90445025,Comm&Mgmt,84.39250653,68.67099312,Mkt&Fin,Yes,Placed
+M,70.9597302,Central,68.73993255,Central,Commerce,77.81134696,Comm&Mgmt,61.27474706,63.8572188,Mkt&Fin,Yes,Placed
+F,65.12407154,Central,68.36217459,Central,Arts,62.28916863,Others,68.0347702,60.13536108,Mkt&Fin,Yes,Placed
+M,64.93909407,Central,71.33859929,Central,Commerce,62.8852683,Comm&Mgmt,57.09135889,56.78089061,Mkt&Fin,Yes,Placed
+M,56.11534915,Others,51.58846509,Others,Science,53.76539526,Sci&Tech,67.59261028,60.73979546,Mkt&HR,No,Not Placed
+M,51.6313929,Central,62.50852386,Central,Science,65,Others,86,56.87513313,Mkt&HR,Yes,Placed
+M,58,Others,61,Others,Commerce,61,Comm&Mgmt,58,53.94,Mkt&HR,No,Placed
+F,66.94062644,Central,70.23323779,Central,Science,64.72761295,Others,80.90947206,68.69903043,Mkt&HR,Yes,Placed
+F,66.69673162,Central,69.75516878,Central,Science,64.57093062,Others,86.25091579,70.67056467,Mkt&HR,Yes,Placed
+M,64.76273115,Central,53.08141313,Central,Science,64.07251912,Sci&Tech,69.96130547,61.02611619,Mkt&HR,No,Not Placed
+F,74.28319947,Central,62.88018328,Central,Arts,64.73064677,Others,80.55553742,62.55296038,Mkt&HR,Yes,Placed
+M,78.64429472,Others,62.22843418,Others,Science,66.89624317,Sci&Tech,92.98870905,64.64941122,Mkt&Fin,Yes,Placed
+M,60.82976993,Others,49.17296943,Others,Science,54.82315039,Others,70.61275108,61.55092693,Mkt&HR,No,Not Placed
+M,62.10031326,Central,66.33131981,Central,Commerce,64.65910515,Comm&Mgmt,85.83394646,62.27131981,Mkt&Fin,Yes,Placed
+F,65.98693799,Central,68.26199457,Central,Arts,63.73722182,Others,65.50590299,60.96155741,Mkt&Fin,Yes,Placed
+F,74.61347215,Central,65.27987186,Others,Science,72,Sci&Tech,57.82935042,64.02785051,Mkt&HR,No,Placed
+M,62,Central,63,Others,Science,66,Comm&Mgmt,85,55.14,Mkt&HR,No,Placed
+M,73.61168924,Central,78.14325032,Others,Commerce,65.18959334,Comm&Mgmt,94.35244487,60.69067989,Mkt&Fin,Yes,Placed
+F,66.14202314,Central,69.81474963,Central,Science,64.47491526,Others,84.83861415,70.18710028,Mkt&HR,Yes,Placed
+M,81.98828592,Others,64.04685634,Others,Science,72.89457324,Sci&Tech,95.96485775,71.66211328,Mkt&Fin,No,Placed
+F,72.11943719,Central,78.19109951,Central,Science,60.39250653,Others,72.1297447,67.92588349,Mkt&HR,Yes,Placed
+M,67,Others,68,Others,Commerce,64,Comm&Mgmt,74.4,53.49,Mkt&HR,Yes,Placed
+M,51.97552151,Others,52.04895699,Others,Science,55.14687097,Sci&Tech,66.82865054,59.35231161,Mkt&HR,No,Not Placed
+M,53.09944519,Central,64.13044239,Central,Arts,57.92452705,Comm&Mgmt,73.77562939,57.26179864,Mkt&Fin,Yes,Placed
+M,78.51272676,Others,88.5976536,Others,Commerce,77.22763109,Comm&Mgmt,76.78371916,70.58746834,Mkt&Fin,Yes,Placed
+M,59.40322537,Others,49.64717441,Others,Science,59.87701586,Others,74.75403171,59.04679428,Mkt&HR,No,Not Placed
+M,60.16839671,Others,48.10312137,Others,Science,56.43744448,Others,71.7679484,60.53065214,Mkt&HR,No,Not Placed
+M,61.2690292,Others,47.72152424,Others,Science,52.76704118,Others,75.6469644,56.10518243,Mkt&HR,No,Not Placed
+M,54.19061537,Others,48.34310766,Others,Arts,66.94648076,Comm&Mgmt,56.07917951,51.53008795,Mkt&Fin,No,Not Placed
+M,82,Others,63.41803878,Others,Science,70.8661422,Sci&Tech,94.64209049,70.5440017,Mkt&Fin,No,Placed
+F,65.00928809,Central,64.01857617,Central,Commerce,60.51625415,Comm&Mgmt,76.19164072,54.01753866,Mkt&HR,Yes,Placed
+M,43.08165308,Central,59.97958673,Others,Science,64.97958673,Comm&Mgmt,92.36074144,62.89264622,Mkt&HR,No,Not Placed
+M,72.29948169,Central,77.12970003,Central,Science,61.5390441,Sci&Tech,71.69428591,67.95535031,Mkt&HR,Yes,Placed
+F,77,Others,61,Others,Commerce,68,Comm&Mgmt,57.5,61.31,Mkt&Fin,Yes,Placed
+M,76,Central,80,Central,Science,78,Sci&Tech,97,70.48,Mkt&HR,Yes,Placed
+M,82.83563782,Central,89.59766311,Others,Commerce,77.20520935,Comm&Mgmt,78.3711782,75.12562809,Mkt&Fin,Yes,Placed
+M,77.58293452,Central,70.28294007,Central,Science,65.19783092,Sci&Tech,72.87035451,70.30619041,Mkt&HR,Yes,Placed
+M,53.33702591,Central,62.87845219,Others,Science,65,Comm&Mgmt,86.18232171,56.64911992,Mkt&HR,No,Not Placed
+M,62.9673986,Central,55.58033489,Central,Science,63.3695617,Sci&Tech,66.42941613,59.23577163,Mkt&HR,No,Not Placed
+F,54.80264199,Others,66.56710266,Central,Commerce,63.67963812,Comm&Mgmt,59.77575414,67.04120047,Mkt&Fin,No,Not Placed
+M,79.33,Central,78.33,Others,Science,77.48,Sci&Tech,86.5,66.28,Mkt&Fin,Yes,Placed
+F,85.84745967,Others,71.80457901,Others,Science,69.76977486,Sci&Tech,65.42122161,62.65764628,Mkt&Fin,Yes,Placed
+M,58.88290601,Others,46.06997885,Others,Science,59.55181626,Others,74.10363252,58.95899039,Mkt&HR,No,Not Placed
+M,58.82347078,Central,61.1528591,Others,Science,70.68244675,Sci&Tech,74.16469416,55.73467297,Mkt&HR,No,Not Placed
+M,59.09864477,Others,42.48012131,Others,Science,55.26101982,Others,73.72262122,57.22547016,Mkt&HR,No,Not Placed
+M,63,Central,67,Central,Commerce,74,Comm&Mgmt,82,60.44,Mkt&Fin,No,Not Placed
+F,66.23258827,Central,65.00333194,Central,Arts,60.89703364,Others,80.44518488,59.92436808,Mkt&HR,Yes,Placed
+M,80.6,Others,82,Others,Commerce,77.6,Comm&Mgmt,91,74.49,Mkt&Fin,No,Placed
+F,75.18251857,Central,81.65093796,Central,Science,57.43972219,Others,62.06892314,63.44904505,Mkt&HR,Yes,Placed
+M,58.89618788,Others,46.16129169,Others,Science,59.56011743,Others,74.12023485,58.96123171,Mkt&HR,No,Not Placed
+M,49.61653611,Others,37.76692779,Others,Science,56.98503062,Others,64.23307221,54.23102692,Mkt&HR,No,Not Placed
+F,77.8,Central,64,Central,Science,64.2,Sci&Tech,75.5,72.14,Mkt&HR,No,Not Placed
+M,66.44645643,Central,76.07793167,Others,Science,72.09085277,Sci&Tech,84.02787888,59.41213617,Mkt&HR,Yes,Placed
+F,65.96554467,Central,68.20417479,Central,Arts,63.72470384,Others,65.53770386,60.95525505,Mkt&Fin,Yes,Placed
+F,74.76479241,Central,82.97589562,Central,Science,56,Others,60.02410438,63.10045315,Mkt&HR,Yes,Placed
+M,74,Others,59,Others,Commerce,73,Comm&Mgmt,60,56.7,Mkt&HR,Yes,Placed
+F,60.38451653,Central,63.43944747,Central,Arts,56.45757467,Others,79.12110507,56.88433022,Mkt&HR,Yes,Placed
+M,65,Central,71.5,Others,Commerce,62.8,Comm&Mgmt,57,56.6,Mkt&Fin,Yes,Placed
+M,68,Central,76,Central,Commerce,74,Comm&Mgmt,80,63.59,Mkt&Fin,No,Placed
+M,61.60440269,Others,50.92950331,Others,Science,53.24346124,Others,69.52449517,62.46733703,Mkt&HR,No,Not Placed
+F,85.74349464,Others,68.28987116,Others,Science,66.85516183,Sci&Tech,77.62539286,55.83964013,Mkt&Fin,Yes,Placed
+M,82.78721357,Central,68.32967464,Others,Science,67.18082036,Sci&Tech,65.03196607,62.22659349,Mkt&Fin,No,Placed
+M,60.47440005,Others,62.80896642,Others,Science,56.19103358,Others,80,56.76213156,Mkt&HR,No,Not Placed
+F,84.43349639,Central,60.09441727,Others,Science,73.62544375,Sci&Tech,60.94417268,61.94242332,Mkt&Fin,Yes,Placed
+F,69.85858467,Central,66.16883079,Central,Arts,63.74603081,Others,80.70418462,61.84096618,Mkt&HR,Yes,Placed
+M,56.6,Central,64.8,Central,Commerce,70.2,Comm&Mgmt,84.27,67.2,Mkt&Fin,No,Placed
+M,76.35219654,Central,96.22065901,Others,Commerce,78.50031995,Comm&Mgmt,96.49254308,73.40147586,Mkt&Fin,Yes,Placed
+M,83.71207713,Others,88.41584438,Others,Science,64.53623179,Sci&Tech,86.65889345,59.89629403,Mkt&Fin,Yes,Placed
+M,83.76528122,Others,87.74279515,Others,Science,64.86250318,Sci&Tech,86.35045876,60.49990063,Mkt&Fin,Yes,Placed
+M,63,Others,62,Others,Science,65,Sci&Tech,87.5,60.69,Mkt&HR,No,Not Placed
+M,81.58375408,Others,63.43407136,Others,Science,67.10180878,Sci&Tech,86.25359301,69.98912032,Mkt&Fin,Yes,Placed
+M,68.95952839,Central,61.47023237,Others,Science,70.64930985,Sci&Tech,56.24341775,70.85202129,Mkt&Fin,Yes,Not Placed
+M,79.30251324,Others,60.41358983,Others,Science,63.60676386,Sci&Tech,90.7592305,64.3768694,Mkt&Fin,Yes,Placed
+F,86.49679096,Others,63.82806569,Others,Science,72.49139772,Sci&Tech,69.83573366,64.03532262,Mkt&Fin,Yes,Placed
+M,72.6141658,Others,51.04763785,Others,Science,64.34321458,Sci&Tech,64,65.43667492,Mkt&Fin,No,Not Placed
+M,62,Others,50.58415355,Others,Science,51.79207678,Others,69.22594979,61.95805981,Mkt&HR,No,Not Placed
+F,61.29278689,Central,70.70725813,Central,Commerce,75.63377811,Comm&Mgmt,77.19923752,71.03103928,Mkt&HR,No,Not Placed
+M,59.54232157,Others,46.52639063,Others,Science,57.67681405,Others,74.53013902,58.1703281,Mkt&HR,No,Not Placed
+F,52,Others,60.41961323,Central,Commerce,59.13024246,Comm&Mgmt,56.59128301,63.65005556,Mkt&Fin,No,Not Placed
+M,61.99145046,Others,50.94853071,Others,Science,52.00276381,Others,68.56064569,62.6563613,Mkt&HR,No,Not Placed
+F,70.89,Others,71.98,Others,Science,65.6,Comm&Mgmt,68,71.63,Mkt&HR,No,Not Placed
+M,60.33823781,Central,63.75395079,Central,Commerce,63.90756021,Comm&Mgmt,58.44857515,59.74588562,Mkt&Fin,Yes,Placed
+M,84.295853,Others,67.01510395,Others,Science,77.20082,Sci&Tech,94.89795304,68.94459966,Mkt&Fin,No,Placed
+F,68.9666673,Central,71.0126431,Central,Arts,65.66448194,Others,67.62990026,63.07921155,Mkt&HR,Yes,Placed
+M,80.40751782,Others,65.50885044,Others,Science,64.67222167,Sci&Tech,92.52853752,64.21829134,Mkt&Fin,Yes,Placed
+M,53.17412603,Central,72.31367819,Others,Science,68.37407988,Sci&Tech,54.48331582,57.81235297,Mkt&HR,No,Placed
+M,82.52355836,Others,86.70698087,Others,Science,65.28296821,Sci&Tech,86.8203752,60.45712838,Mkt&Fin,Yes,Placed
+M,75,Others,70.29,Others,Commerce,71,Comm&Mgmt,95,66.94,Mkt&Fin,No,Placed
+M,78.05710556,Central,77.40410515,Others,Commerce,64.44914757,Comm&Mgmt,92.58065589,62.06255483,Mkt&Fin,Yes,Placed
+F,80.68874458,Others,70.04900433,Others,Science,81,Comm&Mgmt,88.63112554,70.83613333,Mkt&Fin,Yes,Placed
+M,76.40435713,Others,60.28691168,Others,Science,74.41261681,Sci&Tech,95.0283842,64.44550765,Mkt&Fin,Yes,Placed
+M,54.2,Central,63,Others,Science,58,Comm&Mgmt,79,58.44,Mkt&HR,No,Not Placed
+M,76.29895395,Central,95.98340454,Others,Commerce,78.42199659,Comm&Mgmt,96.34091986,73.30240757,Mkt&Fin,Yes,Placed
+M,64.84550369,Central,61.84949897,Central,Science,64.09048884,Sci&Tech,61.29269778,61.07283637,Mkt&HR,No,Not Placed
+M,72.61746068,Central,53.00610841,Others,Science,62.52744575,Comm&Mgmt,61.7766453,64.85985767,Mkt&Fin,Yes,Placed
+M,68.16873332,Central,70.8330381,Central,Science,65.61059779,Comm&Mgmt,63.33215239,60.58881315,Mkt&Fin,Yes,Placed
+M,81.91460607,Others,63.65344523,Others,Science,71.44871909,Sci&Tech,95.08157999,70.79423406,Mkt&Fin,No,Placed
+M,78.42088942,Others,65.10444711,Others,Science,66.83746372,Sci&Tech,94.78424388,64.7708208,Mkt&Fin,No,Placed
+M,82.03928178,Central,64.10829615,Others,Science,66.03544072,Sci&Tech,66.91606028,62.13139495,Mkt&Fin,No,Placed
+M,73,Central,79,Central,Commerce,72,Comm&Mgmt,91.34,61.29,Mkt&Fin,No,Placed
+M,65,Central,68,Others,Science,69,Comm&Mgmt,53.7,55.01,Mkt&HR,No,Placed
+M,52.13236858,Others,64.81468399,Others,Science,56.93381571,Others,74.91316621,59.8491811,Mkt&HR,No,Not Placed
+M,59.07222193,Others,45.18011267,Others,Science,58.44080942,Others,74.12648101,58.5072231,Mkt&HR,No,Not Placed
+M,87,Others,87,Others,Commerce,68,Comm&Mgmt,95,62.9,Mkt&HR,No,Placed
+M,60.63293838,Others,48.85925133,Others,Science,55.30122728,Others,70.96568566,61.28887734,Mkt&HR,No,Not Placed
+M,70,Central,63,Others,Science,70,Sci&Tech,55,62,Mkt&Fin,Yes,Placed
+M,61.2429568,Others,55.2838196,Others,Science,53.3848666,Others,73.3041605,59.94127409,Mkt&HR,No,Not Placed
+F,86.98530217,Central,72.88933371,Central,Arts,76.10009805,Others,80.04645616,70.72791638,Mkt&HR,Yes,Placed
+F,75.64200475,Central,83.6470093,Central,Science,56.39281655,Others,59.54939897,63.53004195,Mkt&HR,Yes,Placed
+M,67.30680286,Others,61.9943149,Others,Science,75.65624398,Sci&Tech,76.65908653,54.1917036,Mkt&Fin,No,Placed
+M,82.43252718,Others,78.10430125,Others,Science,69.11962344,Sci&Tech,83.10430125,66.77061289,Mkt&Fin,No,Placed
+M,83.85677384,Others,87.85635946,Others,Science,65.04976059,Sci&Tech,86.03793941,60.76142487,Mkt&Fin,Yes,Placed
+M,58.68363035,Central,51.75190132,Central,Science,56.84633968,Sci&Tech,68.14015201,60.02452388,Mkt&HR,No,Not Placed
+M,63.5210218,Central,52.05973562,Central,Science,62.64933905,Sci&Tech,69.17145408,58.67730046,Mkt&HR,No,Not Placed
+M,67.96005145,Central,56.20017151,Central,Science,65.32001715,Sci&Tech,63.12955335,58.8928307,Mkt&HR,No,Not Placed
+F,64,Central,67,Others,Science,69.6,Sci&Tech,55.67,71.49,Mkt&HR,Yes,Placed
+M,65.31710394,Central,61.90237132,Central,Science,65.85368316,Sci&Tech,74.07315842,67.20610747,Mkt&HR,No,Not Placed
+F,70.5,Central,62.5,Others,Commerce,61,Comm&Mgmt,93.91,69.03,Mkt&Fin,No,Not Placed
+M,52,Others,49.29626272,Others,Commerce,58.88878816,Comm&Mgmt,61.40747456,59.97673617,Mkt&HR,No,Not Placed
+M,77.76434811,Others,60.24176795,Others,Science,67.66518222,Sci&Tech,92.57897138,64.18677626,Mkt&Fin,Yes,Placed
+M,61.73996443,Others,50.2075701,Others,Science,52.43941314,Others,69.63285796,61.70787013,Mkt&HR,No,Not Placed
+M,73.24,Others,50.83,Others,Science,64.27,Sci&Tech,64,66.23,Mkt&Fin,Yes,Placed
+M,69,Others,65,Others,Commerce,57,Comm&Mgmt,73,55.8,Mkt&HR,No,Placed
+F,72,Others,60,Others,Science,69,Comm&Mgmt,55.5,58.4,Mkt&HR,No,Placed
+M,80.59759555,Others,68.8048089,Others,Science,67.21923561,Sci&Tech,90.58557329,65.97238975,Mkt&Fin,Yes,Placed
+F,66.55231314,Central,69.55231314,Central,Science,64.4244026,Others,87.48835787,70.97956577,Mkt&HR,Yes,Placed
+F,65.66989145,Central,69.22840589,Central,Arts,62.84468394,Others,66.91140083,60.43936724,Mkt&Fin,Yes,Placed
+F,72,Central,56,Others,Science,69,Comm&Mgmt,55.6,65.63,Mkt&HR,No,Placed
+F,42.86457897,Others,47.26580496,Others,Commerce,54.38859281,Comm&Mgmt,68.08955211,63.62928564,Mkt&HR,No,Not Placed
+M,75.83580732,Central,95.52733693,Others,Science,76.75117384,Sci&Tech,93.86172682,70.88752202,Mkt&Fin,Yes,Placed
